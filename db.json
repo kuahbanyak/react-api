@@ -1,0 +1,60 @@
+{
+    "users": [
+        {
+          "id":1,
+          "nama" : "Alwi",
+          "umur": "18",
+          "alamat" : "Kediri",
+          "email": "alwi@gmail.com"
+        },
+        {
+          "id":2,
+          "nama" : "Aliss",
+          "umur": "19",
+          "alamat" : "Kediri",
+          "email": "alsi@gmail.com"
+        },
+        {
+          "id":3,
+          "nama" : "Alida",
+         "umur" : "18",
+          "alamat" : "Kediri",
+          "email": "alida@gmail.com"
+        },
+        {
+          "id":4,
+          "nama" : "Aliwq",
+          "umur": "16",
+          "alamat" : "Kediri",
+          "email": "aliqw@gmail.com"
+        },
+        {
+          "id":5,
+          "nama" : "Ali",
+          "umur": "18",
+          "alamat" : "Kediri",
+          "email": "ali@gmail.com"
+        },
+        {
+          "id":6,
+          "nama" : "Ali",
+          "umur": "18",
+          "alamat" : "Kediri",
+          "email": "ali@gmail.com"
+        },
+        {
+          "id":7,
+          "nama" : "Ali",
+          "umur": "18",
+          "alamat" : "Kediri",
+          "email": "ali@gmail.com"
+        },
+        {
+          "id":8,
+          "nama" : "Ali",
+          "umur": "18",
+          "alamat" : "Kediri",
+          "email": "ali@gmail.com"
+        }
+      ]
+}
